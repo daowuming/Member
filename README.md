@@ -32,3 +32,5 @@ Kata: 会员管理
    查询会员的详细信息(findByCard)
 请设计相应⽅方法并实现上述功能。⼀一如既往地，只需要在内存中模拟数据库操作就可以，也不不
 涉及Web框架等技术。
+fjdkalfjaldkfjlk
+fdhasjlfjlk
